@@ -48,7 +48,7 @@ Los alumnos de primeros semestres necesitan apoyo en materias específicas de la
    - [Imagenes]()
    - [ Artefactos ]()
  
-5- [⭐ Competencias]()
+5- [⭐ Competencias](https://github.com/Leosanlo30/FIS-PROJECT-REPOSITORY/tree/main/Primera%20entrega/Competencias)
    - [Video]()
    - [Material]()
    - [Audio]()
