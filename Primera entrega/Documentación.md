@@ -32,16 +32,16 @@ Los alumnos de primeros semestres necesitan apoyo en materias específicas de la
    - Estudiantes foráneos o en viajes.  
    - Necesitan reforzar conocimientos en materias específicas.  
 
-2. **Alumnos con más de 180 créditos:**  
-   - Buscan obtener créditos optativos.  
-   - Trabajan o viven lejos de la facultad.  
-   - Requieren horarios flexibles.  
-   - Desean compartir su conocimiento con otros.  
-
 ### Secundarios / Potenciales  
 - **Coordinador de LIS y administrativos:**  
   - Agilizan acreditación de optativas.  
-  - Gestionan documentación y registro de horas.  
+  - Gestionan documentación y registro de horas.
+ 
+- **Alumnos con más de 180 créditos:**  
+   - Buscan obtener créditos optativos.  
+   - Trabajan o viven lejos de la facultad.  
+   - Requieren horarios flexibles.  
+   - Desean compartir su conocimiento con otros. 
 
 ---
 
