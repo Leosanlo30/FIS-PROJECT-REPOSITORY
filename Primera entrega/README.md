@@ -1,8 +1,6 @@
 # 📌 Proyecto SOF – PeerHive
 ---
 # 📂 Tabla de Contenido
-
-- [📌 Proyecto SOF – PeerHive]()
   
 1- [📖 Producto](https://github.com/Leosanlo30/FIS-PROJECT-REPOSITORY/tree/main/Primera%20entrega/producto)
   - [Descripción]()
