@@ -28,7 +28,7 @@ Los alumnos de primeros semestres necesitan apoyo en materias específicas de la
   - [Propuesta de valor]()
   - [Artefactos]()
  
-2- [💻 Requisitos]()
+2- [💻 Requisitos](https://github.com/Leosanlo30/FIS-PROJECT-REPOSITORY/tree/main/Primera%20entrega/Requisitos)
   - [Requisitos Funcionales]()
   - [Requisitos No Funcionales]()
   - [Priorización]()
