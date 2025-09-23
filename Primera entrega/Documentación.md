@@ -35,7 +35,7 @@ Los alumnos de primeros semestres necesitan apoyo en materias específicas de la
   - [Artefactos]()
     
 3- [📊 Proceso]()
-   - [Métrica de contribución individual ]()
+   - [Métrica de contribución individual ](https://github.com/Leosanlo30/FIS-PROJECT-REPOSITORY/tree/main/Primera%20entrega/Proceso)
    - [Metodologia]()
    - [Bitacora de reuniones ]()
       - [ Herramientas ]()
